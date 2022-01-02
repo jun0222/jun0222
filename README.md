@@ -12,6 +12,6 @@ I mainly use Ruby on Rails.
 ![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/47178202/147683254-919f81d1-98bb-4add-9c62-41ce1148d0f4.png)
 
 # Outputs
-https://github.com/jun0222/blog
-https://qiita.com/JJJJJJJJ
-https://zenn.dev/dev63
+Zenn : https://zenn.dev/dev63  
+Qiita : https://qiita.com/JJJJJJJJ  
+Blog : https://github.com/jun0222/blog  
