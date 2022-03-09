@@ -17,4 +17,4 @@ I mainly use Ruby on Rails.
 # Outputs
 Zenn : https://zenn.dev/dev63  
 Qiita : https://qiita.com/dev63  
-Blog : https://github.com/jun0222/blog  
+Blog : https://jun0222.github.io/blog/  
