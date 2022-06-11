@@ -13,7 +13,7 @@ I mainly use Ruby && JavaScript.
   </a>
   
   <a href="https://jun0222.github.io/blog/">
-    📓🅱️📓📓
+    <img height="20" src="https://user-images.githubusercontent.com/47178202/173195337-5c83fda0-01e9-4f44-a287-dc2decc1e146.png" />
   </a>
 
 </p>
