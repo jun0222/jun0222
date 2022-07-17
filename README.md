@@ -13,7 +13,11 @@ I mainly use Ruby && JavaScript.
   </a>
   
   <a href="https://www.juns-app.com">
-    <img height="20" src="https://user-images.githubusercontent.com/47178202/173195337-5c83fda0-01e9-4f44-a287-dc2decc1e146.png" />
+    <img height="20" src="https://user-images.githubusercontent.com/47178202/179405647-9fbbff10-4e8d-47e1-b434-013d6aeae7eb.png" />
+  </a>
+  
+  <a href="https://dev63.hatenablog.com/">
+    <img height="20" src="https://user-images.githubusercontent.com/47178202/179405643-5572b541-f597-4238-af7f-21954e0f9a89.png" />
   </a>
 
 </p>
