@@ -17,23 +17,3 @@ I mainly use Ruby && JavaScript.
   </a>
 
 </p>
-
-<p align="left">
-
-  <a href="https://github.com/jun0222">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=jun0222&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  
-  <a href="https://github.com/jun0222">
-    <img align="left" height="170px" src="https://raw.githubusercontent.com/jun0222/jun0222/main/profile-summary-card-output/radical/4-productive-time.svg" />
-  </a>
-  
-  <a href="https://github.com/jun0222">
-    <img align="left" height="170px" src="https://raw.githubusercontent.com/jun0222/jun0222/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
-  </a>
-
-  <a href="https://github.com/jun0222">
-    <img align="left" height="170px" src="https://raw.githubusercontent.com/jun0222/jun0222/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
-  </a>
-
-</p>
