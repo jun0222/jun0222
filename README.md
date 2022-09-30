@@ -1,6 +1,5 @@
-Hi there here ✋
-I'm a web developer(2019/05~).  
-I mainly use Ruby && JavaScript.  
+Hi there here ✋  
+I mainly use Ruby && TypeScript.  
 
 <p align="left">
 
