@@ -11,9 +11,5 @@ I mainly use Ruby && TypeScript.
     <img height="20" src="https://qiita-badge.apiapi.app/s/dev63/posts.svg" />
   </a>
   
-   <a href="https://www.juns-app.com/">
-    tools
-  </a>
-  
 
 </p>
