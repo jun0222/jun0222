@@ -1,4 +1,5 @@
-Technology is a means of business.  
+Technology is just one way to do business.  
+A chore is not a chore.  
 I mainly use TypeScript now.  
 
 <p align="left">
