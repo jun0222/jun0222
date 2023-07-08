@@ -1,5 +1,5 @@
-Hi there here ✋  
-I mainly use Ruby && TypeScript.  
+Technology is a means of business.  
+I mainly use TypeScript now.  
 
 <p align="left">
 
