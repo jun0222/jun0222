@@ -1,5 +1,4 @@
-Freelance software developer.  
-I mainly use TypeScript now.  
+Software developer.  
 
 <p align="left">
 
